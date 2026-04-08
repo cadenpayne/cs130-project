@@ -1,6 +1,8 @@
 # Ideas for Project
 1. https://corgis-edu.github.io/corgis/csv/state_crime/
+
 - How has state crime changed over time? 
+
 -> I would answer this question by accessing the state_crime.csv and loop through the data examining how the rates of whatever crime has changed across the years of different states.
 
 - How have certain states managed their crime rates compared to others?
