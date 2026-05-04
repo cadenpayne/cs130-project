@@ -11,7 +11,7 @@ This link was acquired from https://corgis-edu.github.io/corgis/csv/ via my clas
 ## Data Preparation and Data Cleaning
 For my data preparation, to start I tried different functions and ideas from class just to find ways I can separate data and find ways to make it useful in an article.
 
-Other things I did was access the excel document and changed the column names to make it easier when typing out functions and using other dictionary's.
+Other things I did was access the excel document and changed the column names to make it easier when typing out functions and using other dictionary's. This was a form of data cleaning. I also had to create another data frame with just New York crime stats to better organize my visualizations.
 
 ## Assumptions and Limitations
 Assumptions and Limitations have an impact on data collection. It allows there to be some holes in research and not everything can be read and believed fully. Some assumptions and limitations I experienced are:
