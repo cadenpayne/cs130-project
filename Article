@@ -1,2 +1,15 @@
 # Breakdown on New York State crime rates
 
+        New York State, like other states in America, deal with high amounts of crime. Crime can vary from property damage, larceny and motor to violent crimes such as assault, murder and rape. Here, we will explore the variations of how that crime has changed from the years 1960 to 2019 and analyze potential reasons for how the crime rates have changed year to year.
+
+## New York State Crimes
+            
+        The following image shows how the rates of property related crimes has changed from 1960 to 2019 in New York State.
+
+![Scatter Plot of Rates of All Property related crimes per year](image-2.png)
+
+        As seen by the diagram the rates of property related crimes has sort of a roller coaster pattern going up and down at different spots before eventually having a massive decline just after 1990. As the internet and technology as a whole increased, fighting crime became much easier for law enforcement. The introduction of CompStat, a data driven command system, forced commanders to track and address crime trends directly. This was a model for accountability that other agencies would eventually adopt.
+
+![Scatter Plot of Totals for All Violent Related Crimes](image-3.png)
+
+        
